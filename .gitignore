@@ -47,4 +47,4 @@ typings/
 .env
 .next
 
-/dist
+dist
