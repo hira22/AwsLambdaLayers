@@ -23,5 +23,5 @@ exports.handler = async (event) => {
 
 # See also
 
-[Use Lambda Layers To Post To Slack](https://medium.com/@cplankey/use-lambda-layers-to-post-to-slack-513782db3d82)
-[AWS Lambda ( Typescript ) の Lambda Layers 活用、開発、デプロイ考察](https://dev.classmethod.jp/articles/aws-lambda-typescript-lambda-layers-deploy/)
+- [Use Lambda Layers To Post To Slack](https://medium.com/@cplankey/use-lambda-layers-to-post-to-slack-513782db3d82)
+- [AWS Lambda ( Typescript ) の Lambda Layers 活用、開発、デプロイ考察](https://dev.classmethod.jp/articles/aws-lambda-typescript-lambda-layers-deploy/)
